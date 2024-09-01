@@ -2,6 +2,6 @@
 
 A mini JavaScript project featuring the classic stone, paper, and scissors game.
 
-## Online Preview
+## Live Game
 
-Play the game online:(https://javascript-projects-hazel.vercel.app/).
+[Try out the game here](https://javascript-projects-hazel.vercel.app/).
