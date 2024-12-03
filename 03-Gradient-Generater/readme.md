@@ -2,7 +2,7 @@
 
 Welcome to the **Gradient Generator** – your gateway to creating eye-catching, vibrant gradients with just a click! 😍 Whether you’re a developer looking to add some flair to your projects or someone who just loves playing with colors, this tool has got you covered.  
 
-### 🚀 [Live Demo on Vercel](#)  
+### 🚀 [Live Demo on Vercel](https://gradient-generator-weld.vercel.app/)  
 
 ---
 
@@ -36,7 +36,7 @@ Follow me for more fun projects like this one! 🚀
 ---
 
 ## ⚙️ Deployment  
-This Gradient Generator is proudly deployed on **Vercel**! 🚀 Click [here](#) to check it out live.  
+This Gradient Generator is proudly deployed on **Vercel**! 🚀 Click [here](https://gradient-generator-weld.vercel.app/) to check it out live.  
 
 ---
 
